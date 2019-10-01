@@ -31,4 +31,4 @@ void main()
 		cout<<num<<" found at position "<<pos;
 	}
 	getch();
-  }
+}
