@@ -1,5 +1,6 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
+int i;
 void swap(int *a, int *b)
 {
   int temp = *a;
@@ -8,7 +9,7 @@ void swap(int *a, int *b)
 }
 void printArray(int array[], int size)
 {
-  for (int i = 0; i < size; i++)
+  for (i = 0; i < size; i++)
   {
     cout << array[i] << " ";
   }
