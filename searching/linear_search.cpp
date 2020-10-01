@@ -1,8 +1,8 @@
-#include<iostream.h>
-#include<conio.h>
+#include<bits/stdc++.h>
+
 void main()
 {
-	clrscr();
+	
 	int arr[10], i, num, n, c=0, pos;
 	cout<<"Enter the array size : ";
 	cin>>n;
