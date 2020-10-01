@@ -1,6 +1,7 @@
-#includei<bits/stdc++.h>
+#include<bits/stdc++.h>
 
-void main()
+int main()
 {
-cout<<"HELLO INDIA";
+  cout<<"HELLO WORLD";
+  return 0;
 }
