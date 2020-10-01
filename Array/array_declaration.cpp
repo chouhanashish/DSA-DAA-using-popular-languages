@@ -1,5 +1,4 @@
-#include <iostream>
-#include<conio.h>
+#include <bits/stdc++.h>
 
 using namespace std;
 
@@ -8,7 +7,7 @@ int main()
    int i;
    
    
-   int value[6] = {5,10,15,20,25,30};
+   int value[6] = {1, 2, 3, 4, 5, 6};
  
 	cout<<"Single Dimensional Array In C++ Example Program\n";
  
@@ -19,5 +18,5 @@ int main()
    }
   
    getch();
-    return 0;
+   return 0;
 }
